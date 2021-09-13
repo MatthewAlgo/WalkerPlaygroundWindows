@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\WORKING_SOURCE_FILE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\bgiout.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\dibutil.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\drawing.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\file.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\main.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\misc.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\mouse.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\palette.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\text.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\winbgi.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\winthread.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\dibapi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\dibutil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\graphics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\winbgi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\winbgim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\WinBGIFilesDIR\winbgitypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WalkerPlaygroundWindows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{058D31F9-FB2F-3B3B-971D-40FF2D187298}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{52D2E3D6-7A21-35A1-9D8A-BCD0F03204E0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

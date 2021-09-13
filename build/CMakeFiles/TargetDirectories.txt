@@ -1,0 +1,4 @@
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/WalkerPlaygroundWindows/build/CMakeFiles/WalkerPlaygroundWindows.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/WalkerPlaygroundWindows/build/CMakeFiles/INSTALL.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/WalkerPlaygroundWindows/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/WalkerPlaygroundWindows/build/CMakeFiles/ZERO_CHECK.dir
